@@ -154,10 +154,6 @@ const ValentineCard: React.FC<{ onAccept: () => void }> = ({ onAccept }) => {
             No
           </button>
         </div>
-        
-        <p className="mt-8 text-pink-300 text-sm font-medium italic">
-          (Psst... try to click no if you can! 😉)
-        </p>
       </div>
     </div>
   );
