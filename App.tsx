@@ -56,7 +56,7 @@ const SuccessView: React.FC<{ message: string }> = ({ message }) => {
         <div className="absolute top-0 left-0 w-full h-2 bg-gradient-to-r from-pink-400 via-red-400 to-pink-400"></div>
         
         <img 
-          src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExOHpobXVxdHByZDNmNnEweGZyeHZ2YmJ3bnFwNHVyeXh3ZHB3NmNleSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/iXOfL3vL2VYS5Qn9e1/giphy.gif" 
+          src="https://media.giphy.com/media/OfkGZ5H2H3f8Y/giphy.gif" 
           alt="Celebrating Bears" 
           className="w-64 h-64 mx-auto mb-6 rounded-2xl object-cover shadow-lg"
         />
@@ -122,7 +122,7 @@ const ValentineCard: React.FC<{ onAccept: () => void }> = ({ onAccept }) => {
     <div className="flex flex-col items-center justify-center min-h-screen p-4 relative z-10">
       <div className="bg-white rounded-3xl p-8 shadow-2xl border-8 border-pink-200 text-center max-w-md w-full animate-in slide-in-from-bottom-10 duration-700">
         <img 
-          src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExM3A1NmJ0bnM1bHlxdWk0cmpxNWNqdXpndXdyajRrdnFwd3NxbHh3eiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/Y8S9V8M4z5j4p9W0Pz/giphy.gif" 
+          src="https://media.giphy.com/media/WK7omsLop0431tZjXb/giphy.gif" 
           alt="Cute Valentine" 
           className="w-48 h-48 mx-auto mb-6 rounded-full border-4 border-pink-100 shadow-inner"
         />
