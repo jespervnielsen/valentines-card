@@ -62,9 +62,11 @@ npm run preview
 ├── package.json           # Dependencies and scripts
 ├── tsconfig.json          # TypeScript configuration
 ├── vite.config.ts         # Vite build configuration
+├── .github/
+│   └── copilot-instructions.md  # This file
 └── README.md              # Setup instructions
 
-No .github/ directory exists yet (no CI/CD workflows)
+No CI/CD workflows configured yet
 ```
 
 ### Key Files
